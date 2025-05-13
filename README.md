@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student at Arizona State University, passionate about software development and building useful tools.
+I'm a student at Arizona State University, passionate about software development and building useful tools. I'm studing computer science(BS) with a concentration in software engineering.
 
 🧮Co-created a GPA calculator in Python to help students track their academic performance. Created this in my junior year of high school with one other friend as a school project.
 https://codehs.com/sandbox/id/gpa-calculator-e2vzlc/run
