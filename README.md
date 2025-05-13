@@ -1,6 +1,8 @@
 ## Hi there 👋
 I’m Nathan Czesak, a Computer Science student at Arizona State University with a concentration in Software Engineering. I’m passionate about developing practical, user-friendly software that solves real problems. Whether I’m building mobile apps, experimenting with AI integration, or creating tools to help students, I love turning ideas into working products that people can use.
 
+Here are some projects I have created:
+--------------------
 🧮 GPA Calculator
 In my junior year of high school, I collaborated with a friend to create a GPA calculator using Python. We built this as a class project to help students easily calculate and track their GPA without having to rely on spreadsheets or online tools that lacked customization. The app allows users to enter courses and letter grades to receive an accurate GPA based on standard formulas. This project was my first experience building a utility with a clear user benefit, and it sparked my interest in using code to improve everyday life.
 👉 https://codehs.com/sandbox/id/gpa-calculator-e2vzlc/run
